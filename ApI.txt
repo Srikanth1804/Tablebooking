@@ -1,0 +1,107 @@
+[
+    {
+        "seatNumber": "1-1",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "1-2",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "1-3",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "1-4",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "1-5",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "2-1",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "2-2",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "2-3",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "2-4",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "2-5",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "3-1",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "3-2",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "3-3",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "3-4",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "3-5",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "4-1",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "4-2",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "4-3",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "4-4",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "4-5",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "5-1",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "5-2",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "5-3",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "5-4",
+        "isBooked": false
+    },
+    {
+        "seatNumber": "5-5",
+        "isBooked": false
+    }
+]
+
+
+{
+    "message": "Database seeded successfully!"
+}
